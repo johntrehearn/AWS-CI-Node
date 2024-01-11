@@ -1,0 +1,14 @@
+{
+  "name": "teamtasksnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "lint": "echo 'Linting!'",
+    "build": "echo 'Running a build!'",
+    "test": "echo 'Running unit tests!'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
