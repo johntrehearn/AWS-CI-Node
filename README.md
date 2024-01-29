@@ -4,4 +4,4 @@
 
 A simple Node.js package that checks, if a given string is null or empty.
 
-Example of Worklows in Node
+Example of Worklows in Node.
